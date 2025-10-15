@@ -3,6 +3,8 @@ import Header from '../../components/Header';
 import Dreams from '../home/Dreams';
 import About from '../About';
 import Projects from '../Projects';
+import Contact from '../../components/Contact';
+import Footer from '../../components/Footer';
 
 
 const Home = () => {
@@ -27,6 +29,8 @@ const Home = () => {
 
       <About />
       <Projects/>
+      <Contact/>
+      <Footer/>
     </div>
   );
 };
