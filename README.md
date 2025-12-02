@@ -1,4 +1,3 @@
-![EkranKayd2025-12-02112345-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/bc58895e-8b4a-46aa-99bf-085f86250015)
 # react-estate
 This project is a modern Real Estate Web Application built with React 19. It provides a clean, user-friendly interface for browsing properties, viewing details, and navigating between pages.
 
