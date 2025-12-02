@@ -1,17 +1,31 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![EkranKayd2025-12-02112345-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/bc58895e-8b4a-46aa-99bf-085f86250015)
 # react-estate
+This project is a modern Real Estate Web Application built with React 19. It provides a clean, user-friendly interface for browsing properties, viewing details, and navigating between pages.
+
+Key Features
+
+React 19 for a fast and scalable UI architecture
+
+React Router DOM 7 for smooth and dynamic page navigation
+
+Framer Motion for elegant, high-performance animations
+
+React Icons for a rich set of customizable UI icons
+
+Core Functions
+
+Property listing pages
+
+Property detail pages
+
+Category-based or filtered navigation
+
+Responsive and modern UI
+
+Smooth transitions and animated components
+
+This project focuses on delivering a visually appealing and performant user experience using modern React ecosystem tools.
+
+
+![EkranKayd2025-12-02112345-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/a5873279-4b7e-413e-8a8d-e5bcaca6aadf)
+
